@@ -1,4 +1,5 @@
 # Toko Mini - Sistem Informasi Manajemen Inventaris
+ Studi Kasus: Sistem Informasi Manajemen Inventaris dan Kelola Data Produk Berbasis Web pada Toko Mini.
 
 Aplikasi berbasis web (PHP Native & Bootstrap 5) yang dirancang untuk mengelola data inventaris  produk dan kategori barang secara dinamis. Proyek ini mengimplementasikan operasi CRUD (Create, Read, Update, Delete) yang aman, sistem autentikasi, serta fitur kustomisasi tampilan tema.
 
